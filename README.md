@@ -1,9 +1,9 @@
-# S3　静的サーバの設定などを知る
+# SPA
 ## 前提
-* awsでサーバレス環境、SPAを実装してみる
+* awsで構築
 
 ## 概要
-* 
+* SPAをS3やAPIGateway、Lambda、DynamoDB、Cognitoで構築する。
 
 ## 結果
 * 
